@@ -1,0 +1,20 @@
+{
+  "name": "IBMTTS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "speak": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cli-spinners": "^2.4.0",
+    "dotenv": "^8.2.0",
+    "ibm-watson": "^5.7.1",
+    "ora": "^5.1.0",
+    "yargs": "^16.0.3"
+  }
+}

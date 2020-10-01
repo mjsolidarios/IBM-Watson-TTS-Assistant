@@ -1,0 +1,4 @@
+node_modules
+.env
+*.wav
+package-lock.json
